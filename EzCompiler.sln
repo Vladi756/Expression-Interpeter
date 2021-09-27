@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzCompiler", "EzCompiler\EzCompiler.csproj", "{EA6D3BF9-9F13-4AE5-882A-BA1B280B6850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6D3BF9-9F13-4AE5-882A-BA1B280B6850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6D3BF9-9F13-4AE5-882A-BA1B280B6850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6D3BF9-9F13-4AE5-882A-BA1B280B6850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6D3BF9-9F13-4AE5-882A-BA1B280B6850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A25181D-1ED2-4BD1-81BC-E3958F2221B7}
+	EndGlobalSection
+EndGlobal
