@@ -3,7 +3,6 @@
 Arithmetic expression interpeter coded in C#. 
 It generates an abstract syntax tree, and it honors operator precedence, as can be seen in the diagram below: 
 
-
 ![image](https://user-images.githubusercontent.com/74903538/134972278-bc24a2d7-625d-4ed5-a2fd-0333902c71d6.png)
 
 The correct answer is outputted. The interpreter correctly adds 2 and 3, and then multiplies it by 2. 
